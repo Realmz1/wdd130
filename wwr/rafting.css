@@ -115,3 +115,9 @@ img[src="images/rafting1.jpg"] {
     width: 100px; /* Set the width to 100px */
     height: auto; /* Maintain aspect ratio */
 }
+img[src="images/facebook-icon.png"],
+img[src="images/twitter-icon.png"],
+img[src="images/instagram-icon.png"] {
+    width: 30px; /* Set the width to 30px */
+    height: auto; /* Maintain aspect ratio */
+}
