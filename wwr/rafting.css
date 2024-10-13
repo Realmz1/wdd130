@@ -110,3 +110,8 @@ header nav a {
     float: right; /* Float the image to the right of the paragraph */
     margin-left: 10px; /* Add some space between the image and the text */
 }
+
+img[src="images/rafting1.jpg"] {
+    width: 100px; /* Set the width to 100px */
+    height: auto; /* Maintain aspect ratio */
+}
