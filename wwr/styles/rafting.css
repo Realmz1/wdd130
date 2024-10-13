@@ -117,3 +117,8 @@ img[src="images/instagram-icon.png"] {
     width: 30px; /* Set the width to 30px */
     height: auto; /* Maintain aspect ratio */
 }
+
+img[src="images/history.jpg"] {
+    width: 100px; /* Set width to 100 pixels */
+    height: auto; /* Maintain aspect ratio */
+}
