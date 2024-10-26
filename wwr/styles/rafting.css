@@ -201,3 +201,36 @@ footer a img {
     border: none;
     cursor: pointer;
 }
+
+.river-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 15px;
+}
+
+.river-info .river-image, .river-info .river-description {
+    width: 45%;
+}
+
+.river-info img {
+    width: 100%;
+    height: auto;
+}
+
+.rafting-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.summary-text, .summary-image {
+    width: 45%;
+}
+
+.summary-image img {
+    width: 100%;
+    height: auto;
+}
