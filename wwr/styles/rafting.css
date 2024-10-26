@@ -170,10 +170,16 @@ footer a img {
 .cta-button a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0077cc;
+    background-color: #0077cc; /* Customize as needed */
     color: white;
     text-decoration: none;
-    margin-top: 10px;
+    margin-top: 15px; /* Adds space above the button */
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.cta-button a:hover {
+    background-color: #005fa3; /* Darker shade for hover effect */
 }
 
 .newsletter-signup {
