@@ -254,7 +254,7 @@ footer a img {
     padding: 20px;
 }
 
-.home-page .hero-image img {
+.hero-image img {
     width: 100%; /* Full width of the container */
     height: 25vh; /* 25% of the viewport height */
     object-fit: cover; /* Ensures the image scales nicely within the height */
