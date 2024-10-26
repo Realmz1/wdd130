@@ -234,3 +234,19 @@ footer a img {
     width: 100%;
     height: auto;
 }
+
+.home-page main section {
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.home-page .company-info h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.home-page .hero-image img {
+    width: 100%;
+    height: auto;
+}
