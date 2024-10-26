@@ -208,6 +208,7 @@ footer a img {
     justify-content: space-around;
     gap: 20px;
     padding: 15px;
+    font-size: 25px
 }
 
 .river-info .river-image, .river-info .river-description {
@@ -224,6 +225,7 @@ footer a img {
     align-items: center;
     justify-content: space-around;
     gap: 20px;
+    font-size: 25px
 }
 
 .summary-text, .summary-image {
