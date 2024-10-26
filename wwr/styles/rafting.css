@@ -241,12 +241,13 @@ footer a img {
     text-align: center;
 }
 
-.home-page .company-info h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
+.home-page .company-info {
+    text-align: center;
+    padding: 20px;
 }
 
 .home-page .hero-image img {
-    width: 100%;
-    height: auto;
+    width: 100vw; /* Full width of the viewport */
+    height: 25vh; /* 25% of the viewport height */
+    object-fit: cover; /* Ensures the image scales nicely within the height */
 }
