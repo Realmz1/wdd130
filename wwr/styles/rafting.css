@@ -271,3 +271,47 @@ footer a img {
     object-fit: cover; /* Cover the entire background */
     opacity: 0.7; /* Optional: Adjust opacity for better text visibility */
 }
+
+/* Trip Descriptions with Images */
+.trip-descriptions {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    gap: 20px;
+}
+
+.trip {
+    width: 30%;
+    text-align: center;
+}
+
+.trip img {
+    width: 100%; /* Set images to full container width */
+    height: auto;
+}
+
+.trip-description {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #333;
+}
+
+/* Overview and Safety Sections */
+.rafting-overview, .safety-overview {
+    text-align: center;
+    padding: 15px;
+    background-color: #f3f3f3;
+    margin: 10px 0;
+}
+
+/* River Description and CTA */
+.river-description-cta {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.river-description {
+    width: 45%;
+}
