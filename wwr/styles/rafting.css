@@ -315,3 +315,7 @@ footer a img {
 .river-description {
     width: 45%;
 }
+
+iframe {
+    border: 0;
+}
